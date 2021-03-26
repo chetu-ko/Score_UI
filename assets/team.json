@@ -1,0 +1,56 @@
+[
+   {
+      "league":"Premier League",
+      "city":"England",
+      "logo":"assets/England-icon.png",
+      "cards":[
+         {  "image1":"assets/cry_pal.jpg",
+            "image2":"assets/brigh.png",
+            "team1":"Crystal palace",
+			"team2":"Brighton"
+         },
+         {  "image1":"assets/arsen.jpg",
+            "image2":"assets/evert.jpg",
+            "team1":"Aersonal",
+			"team2":"Evrton"
+         },
+		 {  "image1":"assets/totten.png",
+            "image2":"assets/liverp.jpg",
+            "team1":"TottenHam",
+			"team2":"LiverPool"
+         },
+		 {  "image1":"assets/chels.png",
+            "image2":"assets/bern.jpg",
+            "team1":"Chelsea",
+			"team2":"Burnley"
+         }
+		 ]
+	},
+  {
+    "league":"Seria A",
+    "city":"italy",
+    "logo":"assets/italy.png",
+    "cards":[
+      {  "image1":"assets/AC_mil.png",
+        "image2":"assets/Juven.png",
+        "team1":"AC milan",
+        "team2":"Juventus"
+      },
+      {  "image1":"assets/barcel.png",
+        "image2":"assets/Aus.png",
+        "team1":"Barcelona",
+        "team2":"Australia"
+      },
+      {  "image1":"assets/totten.png",
+        "image2":"assets/liverp.jpg",
+        "team1":"TottenHam",
+        "team2":"LiverPool"
+      },
+      {  "image1":"assets/chels.png",
+        "image2":"assets/bern.jpg",
+        "team1":"Chelsea",
+        "team2":"Burnley"
+      }
+    ]
+  }
+]
